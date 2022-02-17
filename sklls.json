@@ -1,0 +1,8 @@
+{
+	"hard_skills":{
+			"API":"Postman",
+			"sniffers":["Charles", "Fiddler"],
+			"mobile": ["AS", "Xcode"]
+			},
+	"soft_skills":["Communication", "Problem-solving", "Working under stress"]
+}
